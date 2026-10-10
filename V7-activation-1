@@ -1,1 +1,9 @@
-{"version":"7.0","status":"active","build":"release"}
+[
+
+{        "device_id": "034CF583836F815F",
+        "key": "CHIKU",
+        "expirydate": "25-09-20230",
+        "Allowoffline": false
+    }
+
+]
