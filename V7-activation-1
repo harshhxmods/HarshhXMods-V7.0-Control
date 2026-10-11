@@ -2,7 +2,12 @@
 
 {        "device_id": "034CF583836F815F",
         "key": "CHIKU",
-        "expirydate": "25-09-20230",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
+    },
+{        "device_id": "391403CC40691CFA",
+        "key": "HITGAMD#",
+        "expirydate": "01-01-2028",
         "Allowoffline": false
     }
 
