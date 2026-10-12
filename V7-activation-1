@@ -13,6 +13,11 @@
 {        "device_id": "8FCDDAC4A3EEFF01",
         "key": "@HarshhXMods#V7#",
         "expirydate": "01-01-2028",
+         "Allowoffline": false
+    },
+{        "device_id": "2EE0F40616C17688",
+        "key": "@#",
+        "expirydate": "01-01-2028",
         "Allowoffline": false
     }
 
