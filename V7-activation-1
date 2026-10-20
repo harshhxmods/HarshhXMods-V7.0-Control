@@ -24,6 +24,11 @@
         "key": "ayu",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{        "device_id": "C9A99D065A9418FD",
+        "key": "nawab",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
