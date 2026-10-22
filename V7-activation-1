@@ -29,6 +29,11 @@
         "key": "nawab",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{        "device_id": "0C6FC0A9B3752957",
+        "key": "redmi",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
