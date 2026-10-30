@@ -34,6 +34,11 @@
         "key": "redmi",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{        "device_id": "C00F42B7E675BA51",
+        "key": "HarshhV7.0#2455",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
