@@ -39,6 +39,11 @@
         "key": "HarshhV7.0#2455",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{        "device_id": "5F68151AEC9EFA52",
+        "key": "MiaKhalifa",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
