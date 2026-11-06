@@ -44,6 +44,11 @@
         "key": "MiaKhalifa",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{        "device_id": "1B8FADE4732EA057",
+        "key": "iamchuttad",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
